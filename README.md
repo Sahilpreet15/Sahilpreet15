@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sahilpreet Singh</h1>
-<h3 align="center">Enthusiastic and motivated Full Stack Developer with a strong foundation in web development. Experienced in building responsive and user-friendly web applications through academic projects and internships. Passionate about learning new technologies and eager to contribute to dynamic development teams. Committed to continuous improvement and excited to embark on a professional career in full stack development.</h3>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **sahilpreetsaini15@gmail.com**
